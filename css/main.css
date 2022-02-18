@@ -267,6 +267,7 @@ h1 {
   overflow: hidden;
   position: relative;
   transition-duration: 0.5s;
+  user-select: none;
 }
 .landing .container .app:hover {
   background-color: #1d1c4b;
